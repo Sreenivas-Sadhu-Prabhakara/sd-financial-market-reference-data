@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-financial-market-reference-data
+description: "BIAN Service Domain: Financial Market Reference Data (Catalog pattern, Reference Data)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - catalog
+annotations:
+  bian/business-area: "Reference Data"
+  bian/business-domain: "Reference Data"
+  bian/asset-type: "Market Reference Data"
+  bian/control-record: "Market Reference Data Directory Entry"
